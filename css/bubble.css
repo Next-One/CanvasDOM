@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background: #5cbcfe;
+    /*background: -webkit-linear-gradient(to bottom, #2b7ba0 0%, #5cbcfe 100%);
+    background: linear-gradient(to bottom, #2b7ba0 0%, #5cbcfe 100%);*/
+}
+#canvasDiv{
+    display: block;
+    height: 600px;
+    width: 1000px;
+}
